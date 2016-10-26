@@ -13,6 +13,8 @@ import auxiliar.JDBCUtil;
  * 
  * @author Johanes Severo dos Santos Classe com a funcao Main chamada pelo
  *         interpretador.
+ * 
+ *         JOHANES SEVERO DOS SANTOS
  */
 public class Main {
 
